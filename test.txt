@@ -1,0 +1,112 @@
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
+First, open the Settings app and head to Update & security > For developers. Enable Developer mode here.
+
+After you do, open the Control Panel and head to Programs > Turn Windows features on or off. Put a check mark next to Windows Subsystem for Linux (Beta) and click OK to activate the feature.
+
+You may be prompted to reboot. After you’re done, you can just open the Start menu, type bash, and press Enter. A command prompt window will appear. Agree to install Bash and Windows will download the files and install them for you. You’ll also have to provide a username and password that you’ll use in the Bash shell.
+
+Once you’re done, you can now open the Start menu and search for Bash again. You’ll find a “Bash on Ubuntu on Windows” shortcut that launches the shell.
